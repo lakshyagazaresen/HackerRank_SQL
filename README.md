@@ -1,3 +1,5 @@
 # HackerRank_SQL
-Solving questions of HackerRank on SQL
+
+
+Solutions to HackerRanl Questions on MySQL.
 https://www.hackerrank.com/domains/sql
